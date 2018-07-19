@@ -1,0 +1,12 @@
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileApproval.csprojResolveAssemblyReference.cache
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\OwerDependency.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\OwerDependency.pdb
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.xml
+C:\Users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\PowerArgs.dll
+C:\Users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\PowerArgs.xml

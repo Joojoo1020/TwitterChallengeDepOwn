@@ -1,0 +1,14 @@
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Data.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Graphviz.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Serialization.dll
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.xml
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Data.xml
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Graphviz.xml
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\bin\Debug\QuickGraph.Serialization.xml
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+c:\users\joseph_vedadi\documents\visual studio 2015\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
